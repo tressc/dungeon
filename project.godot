@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="Godot"
+config/name="dungeon"
+run/main_scene="res://World.tscn"
 config/icon="res://icon.png"
 
 [importer_defaults]
